@@ -1,4 +1,4 @@
-# artificial-intelligence-lab# Artificial Intelligence Lab
+# Artificial Intelligence Lab
 
 A collection of practical lab exercises completed as part of the **Artificial Intelligence** course in the BSc in Information & Communication Engineering programme at **Bangladesh University of Professionals (BUP)**.
 
